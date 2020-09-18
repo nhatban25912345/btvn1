@@ -19,7 +19,7 @@ bên ngoài không thể nhìn thấy.
 cha có thể chia sẻ dữ liệu và phương thức cho các lớp con. Các lớp con khỏi phải 
 định nghĩa lại, ngoài ra còn có thể mở rộng các thành phần kế thừa và bổ xung 
 thêm các thành phần mới. Tái sử dụng mã nguồn một cách tối ưu, tận dụng được 
-mã nguồn. Một số loại kế thừa thường gặp: đơn kế thừa, đa kế thừa, kế thừa đa 
+mã nguồn. Một số loại kế thừa thường gặp: đơn kế thừa, đa kế thừa, kế thừa đa  
 cấp, kế thừa thứ bậc.
 
 - Tính đa hình: 
