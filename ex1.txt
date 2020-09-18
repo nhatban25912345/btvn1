@@ -1,0 +1,42 @@
+1. opp là gì? Khái niệm! 4 tính chất ?
+2. Mô phỏng tín hiệu giao thông ?
+3. cho 1 mạch gồm các phần tử nhập vào. Hãy xóa những phần tử giống nhau.
+
+1. 
+a. khái niệm
+Lập trình hướng đối tượng (OOP) là một kỹ thuật lập trình cho phép lập trình viên 
+tạo ra các đối tượng trong code trừu tượng hóa các đối tượng.
+b. 4 tính chất
+- Tính đóng gói:
++ Các dữ liệu và phương thức liên quan được đóng gói thành các lớp để tiện quản 
+lý và sử dụng. Tức là mỗi lớp xây dựng để thực hiện một nhóm chức năng của 
+riêng nhóm đó.
++ Ngoài ra đóng gói còn để che dấu một số thông tin và chi tiết cài đặt nội bộ để 
+bên ngoài không thể nhìn thấy.
+
+- Tính kế thừa:
++ Nó cho phép xây dựng lớp mới dựa trên định nghĩa của lớp đã có. Tức là lớp 
+cha có thể chia sẻ dữ liệu và phương thức cho các lớp con. Các lớp con khỏi phải 
+định nghĩa lại, ngoài ra còn có thể mở rộng các thành phần kế thừa và bổ xung 
+thêm các thành phần mới. Tái sử dụng mã nguồn một cách tối ưu, tận dụng được 
+mã nguồn. Một số loại kế thừa thường gặp: đơn kế thừa, đa kế thừa, kế thừa đa 
+cấp, kế thừa thứ bậc.
+
+- Tính đa hình: 
+    Tính đa hình là một hành động được thực hiện bằng nhiều cách khác nhau. Đây là một 
+tính chất có thể nói là chứa đựng hầu hết sức mạnh của lập trình hướng đối tượng.
+    Hiểu một cách đơn giản: đa hình là khái niệm hai hay nhiều lớp có những phương thức 
+giống nhau nhưng có thể thực thi theo những cách thức khác nhau.
+
+-Tính trừu tượng:
+    Trừu tượng là khái quát hóa cái gì đó lên, không cần chú ý đến chi tiết bên trong. Nó 
+không màng đến chi tiết bên trong là gì nhưng người ta vẫn hiểu mỗi khi nghe về nó.
+
+Ví dụ: Bạn chạy xe tay ga thì có hành động là tăng ga để tăng tốc, thì chức năng tăng 
+ga là đại diện cho trừu tượng (abstraction). Người dùng chỉ cần biết là tăng ga thì xe 
+tăng tốc, không cần biết bên trong nó làm thế nào.
+
+Ở đây trong lập trình OOP, tính trừu tượng nghĩa là chọn ra các thuộc tính, phương 
+thức của đối tượng cần cho việc giải quyết bài toán đang lập trình. Vì một đối tượng 
+có rất nhiều thuộc tính phương thức, nhưng với bài toán cụ thể không nhất thiết 
+phải chọn tất cả.
