@@ -1,26 +1,21 @@
 // let array= [1,1,2,3,4,4,5];
 var string = prompt("Enter a squence of Number, separated by commas(,) :");
 
-// let array = [];
-
-// array1.split(",").forEach((number) => {
-//     array.push(number);
-// });
-
-// function myFunction(i) {
-//     remove = array.splice(i,1);
-// }
 console.log(string);
 let array = string.split(",");
 console.log(array);
 
 // for (let i=0; i < array.length-1; i++){
+//     let s = true;
 //     for (let j=1; j < array.length; j++){
 //         if ( array[i] == array[j] ) {
-//             remove1= array.splice(j,1);
-//             remove = array.splice(i,1);
+//             array.splice(j,1);
 //             // myFunction(i);
+//             s = false;
 //         }
+//     }
+//     ìf (s == false ){
+//         array.splice(i,1);
 //     }
 // }
 let i=0;
